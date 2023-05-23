@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Clara!<br>- 🌱 I’m currently learning PHP<br>- 👯 I’m looking to collaborate with @rokuazery<br>- ⚡ Fun fact: I'm Lazy haha<br>-->
+-👋 Hi, I'm Clara!<br>- 🌱 I’m currently learning PHP<br>- 👯 I’m looking to collaborate with @rokuazery<br>- ⚡ Fun fact: I'm Lazy haha<br>-->
 
 
 ## 🌐 Socials:
